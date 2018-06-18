@@ -22,4 +22,7 @@
 //   }
 // }
 
-functio
+function BoardMemeber() {
+  
+  
+}
